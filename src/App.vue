@@ -10,11 +10,11 @@ export default {
     wx.setStorageSync("logs", logs);
     var userInfo = {
       openId: "oQmbb4sNZdxaUQZ0sfYgvtOP2S7c",
-      nickName: "何玉硕",
+      nickName: "mack007",
       gender: 1,
       language: "zh_CN",
-      city: "Changping",
-      province: "Beijing",
+      city: "fuzhou",
+      province: "fujian",
       country: "China",
       avatarUrl: "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbWFEIJj8IpGeHM7dGic1aTFZALjWcMm9ltWfFiaQfVRYticWBfgGfzXWMt2EkJWiaicPtftHAlWxUibxQ/132",
       watermark: { timestamp: 1535513485, appid: "wx601ce71bde7b9add" }
