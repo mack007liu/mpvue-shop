@@ -5,7 +5,7 @@
       <div @click="toLogin">
         <p>{{userInfo.nickName}}</p>
         <p v-if="userInfo.nickname">点击登录</p>
-        <p v-else>微信用户</p>
+        <p v-else>测试用户</p>
       </div>
     </div>
     <div class="iconlist">
